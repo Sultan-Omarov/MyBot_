@@ -31,4 +31,4 @@ async def on_message(message):
     else:
         await message.channel.send('Я незнаю такую команду')
 
-client.run("MTEwMTc4MDM1MTMyMTM5NTI0MQ.GbF_8C.Sc7-zHItjZJ7n5BFy_9lxVSnUxLIaO4jsI1vjI")
+client.run("Ваш токен")
